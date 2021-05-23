@@ -9,3 +9,5 @@ An experiment with [Gtk Broadway](https://developer.gnome.org/gtk3/stable/gtk-br
 
 ## Run
 -  python test.python gnome-calculator # or any other gtk application
+
+![Sample](sample.gif)
